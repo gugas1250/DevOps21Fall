@@ -1,1 +1,2 @@
-second test with git
+i am editing first line for branch_3 branch to test git conflict
+

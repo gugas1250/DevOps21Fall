@@ -1,2 +1,4 @@
 day 2 on git class
-i wanna add 1 more line and for that i have to use vi
+i wanna add 1 more line and for that i have to use v
+this is the first line added on conflict_1 branch for testing conflict
+>>>>>>>>>>>
